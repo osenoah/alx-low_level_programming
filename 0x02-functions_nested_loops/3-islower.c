@@ -3,6 +3,7 @@
 /**
   * _islower - Entry point
   * Description: Checks for lowercase character.
+  * @c: Contains value to be compared
   * Return: Always 0 (Success)
   */ 
 
