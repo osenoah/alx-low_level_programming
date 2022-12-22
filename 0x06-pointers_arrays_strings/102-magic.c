@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints the answer followed by a new line
- * Return: 0 Always success
+ * main - prints a[2] = 98
+ * int main(void) adds to the file
+ * Return: prints the answer followed by a new line
  */
 int main(void)
 {
