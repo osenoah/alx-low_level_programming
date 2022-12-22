@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-/**
- * main - prints a[2] = 98
- * int main(void) adds to the file
- * Return: prints the answer followed by a new line
- */
+/* int main(void) adds to the file */
 int main(void)
 {
 int n;
@@ -15,7 +11,7 @@ a[2] = 1024;
 p = &n;
   /*
    * write your line of code here...
-   * Remember:
+* Remember:
    * - you are not allowed to use a
    * - you are not allowed to modify p
    * - only one statement
