@@ -1,6 +1,6 @@
 # Even more pointers, arrays and strings
 
-Project done during ** Software Engineering ** at **ALX**. It aims to learn about pointers and arrays in **C language**.
+Project done during **Software Engineering** at **ALX**. It aims to learn about pointers and arrays in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc` using options `-Wall -Werror -Wextra -pedantic -std=gnu89`
