@@ -1,6 +1,6 @@
 # Recursion
 
-Project done during **Software Engineering** at **ALX**. It aims to learn about recursion and how to implement it in **C language**.
+Project done during **Software Engineering** at **ALX**, It aims to learn about recursion and how to implement it in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc` using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
