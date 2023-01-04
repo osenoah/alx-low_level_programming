@@ -4,7 +4,7 @@ Project done during **Software Engineering** at **ALX**. It aims to learn about 
 
 ## Technologies
 * C files are compiled using `gcc` using options `-Wall -Werror -Wextra -pedantic -std=gnu89`
-* C files are written in `Betty` style
+* C files are written in `Betty` coding style
 * Tested on Ubuntu 20.04 LTS
 
 ## Files
