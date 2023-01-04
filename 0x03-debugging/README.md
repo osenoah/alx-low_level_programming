@@ -1,9 +1,9 @@
 # Debugging
 
-Project done during ** Software Engineering ** at **ALX**. It aims to learn how to debug in **C language**.
+Project done during **Software Engineering** at **ALX**. It aims to learn how to debug in **C language**.
 
 ## Technologies
-* C files are compiled using `gcc compiler`
+* C files are compiled using `gcc` using the options `-Wall -Werror -Wextra -pedantic -std=gnu89` 
 * C files are written usin `Betty` coding style
 * Tested on Ubuntu 20.04 LTS
 
