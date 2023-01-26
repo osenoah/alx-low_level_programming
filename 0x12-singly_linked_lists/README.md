@@ -1,5 +1,4 @@
-#Singly linked lists
-
+# Singly linked lists
 Project done during **Software Engineering** at **ALX**. It aims to learn about function pointers in **C language**.
 
 ## Technologies
@@ -9,7 +8,6 @@ Project done during **Software Engineering** at **ALX**. It aims to learn about 
 
 ## Files
 All of the following files are programs written in C:
-
 | Filename | Description |
 | -------- | ----------- |
 | `0-print_list.c` | Prints all the elements of a `list_t` list |
