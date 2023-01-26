@@ -1,4 +1,5 @@
 #Singly linked lists
+
 Project done during **Software Engineering** at **ALX**. It aims to learn about function pointers in **C language**.
 
 ## Technologies
