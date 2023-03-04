@@ -7,6 +7,7 @@ Project done during **Software Engineering** at **ALX**. It aims to learn about 
 * Tested on `Ubuntu 20.04 LTS`
 
 ## Files
+
 All of the following files are programs written in C:
 | Filename | Description |
 | -------- | ----------- |
